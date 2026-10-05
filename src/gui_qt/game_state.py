@@ -583,7 +583,7 @@ class GameState:
                 "framework statuses reused (changed mods have no framework files)"
                 if reuse_frameworks else "framework statuses resolved",
                 phase_started=phase_started, lane="worker")
-        if getattr(g, "game_id", "") in {"skyrim_se", "Fallout4"}:
+        if getattr(g, "game_id", "") in {"skyrim_se", "Fallout4", "Fallout_London"}:
             from Utils.bethesda.skse_plugins import scan_script_extender_plugins
             from Utils.mods.modlist import read_modlist
             try:

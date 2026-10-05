@@ -75,6 +75,7 @@ XLODGEN_GAME_FLAGS: dict[str, str] = {
     "FalloutNV":    "-fnv",
     "FalloutNC":    "-fnv",
     "Fallout4":     "-fo4",
+    "Fallout_London": "-fo4",
     "Fallout4VR":   "-fo4vr",
     "skyrim":       "-tes5",
     "skyrimvr":     "-tes5vr",

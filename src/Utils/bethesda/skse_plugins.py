@@ -21,6 +21,7 @@ _FO4_ANNIVERSARY = 0x010B0890
 _GAME_EXTENDERS = {
     "skyrim_se": ("SKSE", "SkyrimSE.exe", "skse64_loader.exe"),
     "Fallout4": ("F4SE", "Fallout4.exe", "f4se_loader.exe"),
+    "Fallout_London": ("F4SE", "Fallout4.exe", "f4se_loader.exe"),
 }
 
 

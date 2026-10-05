@@ -19,6 +19,7 @@ py.install_sources(
   'Fallout76.png',
   'FalloutNC.png',
   'FalloutNV.png',
+  'Fallout_London.png',
   'Hades.png',
   'Hades_II.png',
   'hogwarts_legacy.png',

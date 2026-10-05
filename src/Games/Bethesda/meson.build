@@ -8,6 +8,7 @@ py.install_sources(
   'fallout_4.py',
   'fallout_4vr.py',
   'fallout_76.py',
+  'fallout_london.py',
   'fallout_nv.py',
   'oblivion.py',
   'skyrim.py',
